@@ -1,0 +1,1017 @@
+body{
+  background-image: url("https://needswag.files.wordpress.com/2013/01/background.png");
+}
+
+h2{
+  position:fixed;
+  left: 27%;
+  color: pink;
+}
+a{
+ text-decoration: none;
+}
+.e-letter{
+  position: fixed;
+  right:15%;
+  left : 10%;
+  bottom: 35%;
+  width: 200px;
+  height: 45%;
+  color:pink;
+}
+#DW {
+ position: fixed;
+ right:15%;
+ left : 10%;
+ bottom: 75%;
+ color:pink;
+}
+
+#AQ {
+ position: fixed;
+ right:15%;
+ left : 10%;
+ bottom: 73%; 
+ color:pink;
+}
+
+#AB {
+ position: fixed;
+ right:15%;
+ left : 10%;
+ bottom: 35%;
+ color:pink;
+}
+
+#JS{
+ position: fixed;
+ right:15%;
+ left : 10%;
+ bottom: 37%;
+ color:pink;
+}
+
+#SV {
+ position: fixed;
+ right:15%;
+ left : 10%;
+ bottom: 39%;
+ color: pink;
+}
+
+#DM {
+  position:fixed;
+  right:20%;
+  left:17.7%;
+  bottom: 35%;
+  color:pink;
+}
+
+#AN{
+  position:fixed;
+  right:20%;
+  left:15.8%;
+  bottom: 37%;
+  color:pink;
+}
+
+#PC{
+  position:fixed;
+  right:20%;
+  left:11%;
+  bottom: 52%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#CT{
+  position:fixed;
+  right:20%;
+  left:12%;
+  bottom: 52.94%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+} 
+/*
+Middle line in E
+*/
+#SS{
+ position: fixed;
+ right:15%;
+ left : 11%;
+ bottom: 55.1%;
+ color:pink;
+}
+#JR{
+  position:fixed;
+  right:20%;
+  left:11%;
+  bottom: 69.8%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#JA {
+  position:fixed;
+  right:20%;
+  left:12%;
+  bottom: 69.8%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+.n-letter{
+  position: fixed;
+  right:15%;
+  left : 24%;
+  bottom: 35%;
+  width: 200px;
+  height: 45%;]
+}
+
+#MHI {
+  position:fixed;
+  right:20%;
+  left:25%;
+  bottom: 48.3%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#APA{
+  position:fixed;
+  right:20%;
+  left:26%;
+  bottom: 46.5%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#KR{
+  position:fixed;
+  right:20%;
+  left:27%;
+  bottom: 47.5%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#LI{
+  position:fixed;
+  right:20%;
+  left:27%;
+  bottom: 60%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#EMO{
+  position:fixed;
+  right:20%;
+  left:27%;
+  bottom: 77%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+
+#MH {
+  position:fixed;
+  right:20%;
+  left:25%;
+  bottom: 63%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#ER{
+  position:fixed;
+  right:20%;
+  left:26%;
+  bottom: 58%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#JMC{
+  position:fixed;
+  right:20%;
+  left:26%;
+  bottom: 77%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#ALO{
+  position:fixed;
+  right:20%;
+  left:25%;
+  bottom: 77%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#MJG{
+  position:fixed;
+  right:20%;
+  left:37%;
+  bottom: 58%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#JRW{
+  position:fixed;
+  right:20%;
+  left:37%;
+  bottom: 77%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#SHP{
+  position:fixed;
+  right:20%;
+  left:36%;
+  bottom: 77%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#TC{
+  position:fixed;
+  right:20%;
+  left:36%;
+  bottom: 49%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#KG{
+  position:fixed;
+  right:20%;
+  left:36%;
+  bottom: 61%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#ADE{
+  position:fixed;
+  right:20%;
+  left:28%;
+  bottom: 77%;
+  color:pink;
+  transform: rotate(65deg);
+	transform-origin: left top 0;
+}
+
+#LSO{
+  position:fixed;
+  right:20%;
+  left:28%;
+  bottom: 70%;
+  color:pink;
+  transform: rotate(65deg);
+	transform-origin: left top 0;
+}
+
+#WDE{
+  position:fixed;
+  right:67%;
+  bottom: 68%;
+  color:pink;
+  transform: rotate(65deg);
+	transform-origin: left top 0;
+}
+
+#LBO{
+  position:fixed;
+  right:67%;
+  bottom: 52%;
+  color:pink;
+  transform: rotate(65deg);
+	transform-origin: right bottom 0;
+}
+
+#AJO{
+  position:fixed;
+  right:67%;
+  bottom: 46%;
+  color:pink;
+  transform: rotate(65deg);
+	transform-origin: right bottom 0;
+}
+
+#LST{
+  position:fixed;
+  right:65%;
+  bottom: 40%;
+  color:pink;
+  transform: rotate(65deg);
+	transform-origin: right bottom 0;
+}
+
+#MFO {
+  position:fixed;
+  right:67%;
+  bottom: 68%;
+  color:pink;
+  transform: rotate(65deg);
+	transform-origin: left top 0;
+}
+
+.o-letter{
+  position: fixed;
+  right:15%;
+  left : 38%;
+  bottom: 35%;
+  width: 200px;
+  height: 45%;
+}
+
+#LW {
+  position: fixed;
+  right:15%;
+  left : 39.8%;
+  bottom: 35%;
+  color:pink;  
+}
+
+#JM {
+  position: fixed;
+  right:15%;
+  left : 43.8%;
+  bottom: 77.35%;
+  color:pink;  
+}
+
+#KF {
+  position: fixed;
+  right:15%;
+  left : 44.4%;
+  bottom: 35%;
+  color:pink;   
+}
+
+#AE {
+  position: fixed;
+  right:15%;
+  left : 44.4%;
+  bottom: 38%;
+  color:pink; 
+}
+
+#JC {
+  position: fixed;
+  right:15%;
+  left : 38.85%;
+  bottom: 38%;
+  color:pink; 
+}
+
+#CL {
+  position:fixed;
+  right:20%;
+  left:39.25%;
+  bottom: 45%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0; 
+}
+
+#JW {
+  position:fixed;
+  right:20%;
+  left:51.2%;
+  bottom: 45%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0; 
+}
+
+#GG {
+  position:fixed;
+  right:20%;
+  left:39.25%;
+  bottom: 59%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0; 
+}
+
+#CB {
+  position:fixed;
+  right:20%;
+  left:51.25%;
+  bottom: 61%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0; 
+}
+
+#MK {
+  position: fixed;
+  right:15%;
+  left : 38%;
+  bottom: 75%;
+  color: pink;
+}
+
+#CP {
+  position: fixed;
+  right:15%;
+  left : 44.3%;
+  bottom: 75%;
+  color: pink;
+}
+
+#JL{
+  position:fixed;
+  right:20%;
+  left:39.25%;
+  bottom: 71.3%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0; 
+}
+
+#MB {
+  position:fixed;
+  right:20%;
+  left:40.25%;
+  bottom: 56%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0; 
+}
+
+#IM {
+  position:fixed;
+  right:20%;
+  left:40.25%;
+  bottom: 70%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0; 
+}
+
+#CHL {
+  position:fixed;
+  right:20%;
+  left:41.25%;
+  bottom: 72%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0; 
+}
+
+#CH {
+  position:fixed;
+  right:20%;
+  left:41.25%;
+  bottom: 57%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0; 
+}
+
+#JME{
+  position: fixed;
+  right:15%;
+  left : 41%;
+  bottom: 43%;
+  color:pink; 
+}
+
+#DT{
+  position: fixed;
+  right:15%;
+  left : 41.7%;
+  bottom: 73%;
+  color: pink;
+}
+
+#LP{
+  position:fixed;
+  right:20%;
+  left:51.25%;
+  bottom: 76.5%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0; 
+}
+
+#ZW{
+  position:fixed;
+  right:20%;
+  left:50.25%;
+  bottom: 55%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0; 
+}
+
+#CS{
+  position:fixed;
+  right:20%;
+  left:50.25%;
+  bottom: 72%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0; 
+}
+
+#BW{
+  position:fixed;
+  right:20%;
+  left:49%;
+  bottom: 72%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#TW{
+  position:fixed;
+  right:20%;
+  left:49%;
+  bottom: 58%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#JB{
+  position: fixed;
+  right:15%;
+  left : 40.5%;
+  bottom: 40%;
+  color:pink; 
+}
+
+
+.u-letter{
+  position: fixed;
+  right:15%;
+  left : 52%;
+  bottom: 35%;
+  width: 200px;
+  height: 45%;
+}
+
+#MP{
+ position: fixed;
+ right:15%;
+ left : 52.5%;
+ bottom: 35%;
+ color:pink;
+}
+
+#KJ{
+ position: fixed;
+ right:15%;
+ left : 60%;
+ bottom: 35%;
+ color:pink;
+}
+
+#BH {
+ position: fixed;
+ right:15%;
+ left : 52.3%;
+ bottom: 37.5%;
+ color:pink;
+}
+
+#AC{
+ position: fixed;
+ right:15%;
+ left : 58%;
+ bottom: 37.5%;
+ color:pink;
+}
+
+#BR{
+ position: fixed;
+ right:15%;
+ left : 52.3%;
+ bottom: 40%;
+ color:pink;
+}
+
+#ZS{
+ position: fixed;
+ right:15%;
+ left : 59.3%;
+ bottom: 40%;
+ color:pink;
+}
+
+#PD{
+  position:fixed;
+  right:20%;
+  left:53.3%;
+  bottom: 50%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#BL{
+  position:fixed;
+  right:20%;
+  left:53.4%;
+  bottom: 67%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#TS {
+  position:fixed;
+  right:20%;
+  left:54.5%;
+  bottom: 51%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#RV {
+  position:fixed;
+  right:20%;
+  left:65%;
+  bottom: 50%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#AW{
+  position:fixed;
+  right:20%;
+  left:64%;
+  bottom: 70%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#MG{
+  position:fixed;
+  right:20%;
+  left:54.5%;
+  bottom: 66%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#EL{
+  position:fixed;
+  right:20%;
+  left:53.4%;
+  bottom: 77%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#JZ{
+  position:fixed;
+  right:20%;
+  left:54.5%;
+  bottom: 78%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#KM{
+  position:fixed;
+  right:20%;
+  left:65%;
+  bottom: 67%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#VM{
+  position:fixed;
+  right:20%;
+  left:64%;
+  bottom: 55%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+.g-letter{
+  position: fixed;
+  right:15%;
+  left : 66%;
+  bottom: 35%;
+  width: 200px;
+  height: 45%;
+}
+
+#TAL{
+  position:fixed;
+  right:20%;
+  left:75%;
+  bottom: 47.5%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#HC {
+ position:fixed;
+  right:20%;
+  left:77%;
+  bottom: 44.6%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#TA{
+ position: fixed;
+ right:15%;
+ left : 66%;
+ bottom: 35%;
+ color:pink;
+}
+
+#JFS{
+  position:fixed;
+  right:20%;
+  left:67%;
+  bottom: 71%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#IA {
+  position:fixed;
+  right:20%;
+  left:68%;
+  bottom: 71%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#JF{
+  position:fixed;
+  right:20%;
+  left:68%;
+  bottom: 46.5%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#EB {
+  position:fixed;
+  right:20%;
+  left:68%;
+  bottom: 59%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#LD{
+  position:fixed;
+  right:20%;
+  left:79%;
+  bottom: 39%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#JY{
+ position: fixed;
+ right:15%;
+ left : 71%;
+ bottom: 35%;
+ color:pink;
+}
+
+#AD{
+  
+}
+
+#DA{}
+
+#MGI{
+ position: fixed;
+ right:15%;
+ left : 71%;
+ bottom: 52%;
+ color:pink;
+}
+
+#DL{
+ position: fixed;
+ right:15%;
+ left : 71%;
+ bottom: 50%;
+ color:pink;
+}
+
+#TWI{
+ position: fixed;
+ right:15%;
+ left : 72%;
+ bottom: 77.3%;
+ color:pink;
+}
+
+#RA {
+ position: fixed;
+ right:15%;
+ left : 73.8%;
+ bottom: 74.5%;
+ color:pink;
+}
+
+#YB{
+  position:fixed;
+  right:20%;
+  left:79%;
+  bottom: 45.5%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+  }
+
+#JBA{
+ position: fixed;
+ right:15%;
+ left : 68%;
+ bottom: 38%;
+ color:pink;
+}
+
+#SA{
+  position:fixed;
+  right:20%;
+  left:67%;
+  bottom: 50%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+
+
+
+.h-letter{
+  position: fixed;
+  right:15%;
+  left : 80%;
+  bottom: 35%;
+  width: 200px;
+  height: 45%;
+}
+
+#KJA {
+  position:fixed;
+  right:20%;
+  left:93%;
+  bottom: 38%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#JN {
+  position:fixed;
+  right:20%;
+  left:93%;
+  bottom: 45%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#A {
+  position:fixed;
+  right:20%;
+  left:82.2%;
+  bottom: 75%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#LS{
+  position:fixed;
+  right:20%;
+  left:93%;
+  bottom: 55%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#CBO{
+  position:fixed;
+  right:20%;
+  left:82.2%;
+  bottom: 38%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#VS{
+  position:fixed;
+  right:20%;
+  left:93%;
+  bottom: 74%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#EF{
+  position:fixed;
+  right:20%;
+  left:82.2%;
+  bottom: 45%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#SH{
+  position:fixed;
+  right:20%;
+  left:82.2%;
+  bottom: 55%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#EH{
+  position:fixed;
+  right:20%;
+  left:93%;
+  bottom: 65%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+}
+
+#CTH{
+  position:fixed;
+  right:20%;
+  left:82.2%;
+  bottom: 65%;
+  color:pink;
+  transform: rotate(90deg);
+	transform-origin: left top 0;
+  }
+
+  #DY{
+  position: fixed;
+  right:15%;
+  left : 83%;
+  bottom: 53%;
+  color:pink;
+  }
+
+  #RR{
+  position: fixed;
+  right:15%;
+  left : 86%;
+  bottom: 53%;
+  color:pink;
+  }
+

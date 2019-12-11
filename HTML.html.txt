@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Enough</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body background = "w3s.png">
+     <h2>This design uses names of victims of sexual assaults that happened in 2019</h2>
+          <div class ="e-letter">
+            Kiera Bergmaan
+           <div id = "AB"> Aniah Blanchard </div>
+           <div id = "DM"> Dana Martin </div>
+           <div id = "AN"> Alecia Newsome</div>
+           <div id = "JS"> Jeremiah Star</div>
+           <div id = "SV"> Sahara VonFisher<div>
+           <div id = "DW"> Diamond WedgeWood </div>
+           <div id = "AQ"> Adrienne Quintal</div>
+           <div id = "PC"> Paris Cameron </div>
+           <div id = "JR"> Jennifer Rothwell</div> 
+           <div id = "JA"> Jamie Anderson</div>
+           <div id = "CT"> Christina Tryon </div>
+           <!--Horizontal name for E -->
+           <div id = "SS"> Sylvina Saintilien </div>
+          </div>
+
+          <div class ="n-letter">
+            <div id = "MHI" > Mark Himebaugh </div> 
+            <div id = "MJG"> Michaela Joy Garecht </div>  
+            <div id = "JMC"> Jane McDonald-Crone </div> 
+            <div id = "JRW"> Jaliet Rainwalker </div> 
+            <div id = "ALO"> Aranza Lopez </div> 
+            <div id = "KG" > Karlie Guse </div> 
+            <div id = "KR"> Karla Rodriguez </div> 
+            <div id = "ER"> Enrique Rios </div> 
+            <div id = "EMO"> Elijah Moore </div> 
+            <div id = "LI"> Lisa Irwin </div> 
+            <div id = "TC">  Tara Calico </div> 
+            <div id = "SHP"> Shanna Peoples </div> 
+            <div id = "APA"> Abby Patterson </div> 
+            <div id = "MH"> Matthew Henry </div>  
+            <div id = "ADE"> Amande Deguio </div> 
+            <div id = "LSO"> Laverda Sorrell </div> 
+            <div id = "WDE"> Willie Declay </div> 
+            <div id = "AJO"> Amanda Jones </div> 
+            <div id = "LBO"> Lori Boffman </div>  
+            <div id = "JY"> Jamie Yazzie </div> 
+            <div id = "LST"> Lashaya Stine </div> 
+            <div id = "EHU"> Ericha Hunt </div> 
+            <div id - "MFO"> Margaret Fox </div> 
+
+
+          </div>
+
+          <div class ="o-letter">
+            Bee Slater
+            <div id = "LW" > Lisa Willis </div>
+            <div id = "KF" > Kiki Fantroy </div>
+            <div id = "AE" > Amber Evans </div>
+            <div id = "JC" > Jordan Cofer </div>
+            <div id = "CL"> Claire Legato </div>
+            <div id = "JW"> Jazzline Ware </div>
+            <div id = "GG"> Graciela Garcia </div>
+            <div id = "CB"> Christian Barajas </div>
+            <div id = "JM"> Jared Medlock </div>
+            <div id = "MK"> Mckayla Kelly </div>
+            <div id = "CP"> Christian Pugh </div>
+            <div id = "JL"> Johana Leon </div>
+            <div id = "MB"> Muhlaysia Booker </div>
+            <div id = "IM"> Itali Marlowe </div>
+            <div id = "CHL"> Chynal Lindsey </div>
+            <div id = "CH"> Chynal Haslett </div>
+            <div id = "JME"> Johana Medina </div>
+            <div id = "DT"> Devine Tolett </div>
+            <div id = "LP"> Layleen Polanco </div>
+            <div id = "ZW"> Zion Whitley-Ray </div>
+            <div id = "CS"> Chanel Scurlock </div>
+            <div id = "BW"> Bubba Walker </div>
+            <div id = "TW"> Terrell Williams </div>
+            <div id = "JB"> Jamagio Berryman </div>
+          </div>
+
+          <div class="u-letter">
+            <div id = "MP"> Maya Philipps </div>
+            <div id = "KJ"> Katty Joya </div>
+            <div id = "BH"> Brianna Hill </div>
+            <div id = "AC"> Ashanti Carmon </div>
+            <div id = "BR"> Bailey Reeves </div>
+            <div id = "ZS"> Zoe Spears </div>
+            <div id = "PD"> Pebbles Doe </div>
+            <div id = "BL">Brooklyn Lindsey</div>
+            <div id = "TS"> Tracy Single</div>
+            <div id = "AW"> Alani Williams</div> 
+            <div id = "RV"> Ricardo Valejo </div>
+            <div id = "MG"> Marissa Graham </div>
+            <div id = "EL"> Emily Lopez </div>
+            <div id = "JZ"> Joyce Zelaya </div> 
+            <div id = "KM"> Khadra Muhumed </div>  
+            <idv id = "VM"> Vanessa Morales </div>
+
+          <div class="g-letter">
+            <div id = "TA"> Tucson Az </div> 
+            <div id = "JFS"> Jarae Frink-Sheppard </div>  
+            <div id = "LD"> Luis Davila </div> 
+            <div id = "JY"> Jeremiah Young </div> 
+            <div id = "AD"> Arieanna Day </div> 
+            <div id = "DA"> Dulce ALvalez </div> 
+            <div id = "MGI"> Monae Givens </div> 
+            <div id = "DL"> Delane Lara </div> 
+            <div id = "TWI"> Taylor Williams </div>
+            <div id = "JBA"> Jonathon Barker </div> 
+            <div id = "SA"> Savannah Adams </div> 
+            <div id = "YB"> Yaniah Buggs </div>
+            <div id = "RA"> Raya Avery </div> 
+            <div id = "IA"> Isael Arenas </div> 
+            <div id = "EB"> Elise Bowers </div> 
+            <div id = "HC"> Hallie Conaway </div> 
+            <div id = "JF"> Jaylan Fulton </div> 
+            <div id = "TAL"> Trent Alto </div> 
+          </div>
+
+          <div class ="h-letter">
+            <div id = "KJA" >Keeshae Jacobs </div>
+            <div id = "JN" > Javier Nino </div> 
+            <div id = "A"> Alexia </div>
+            <div id = "LS"> Leonardo Simo </div> 
+            <div id = "CBO"> Cole Bothwell </div> 
+            <div id = "VS"> Virginia Sproat </div>  
+            <div id = "EF"> Eugene Ford </div> 
+            <div id = "SH"> Samuel Hosue </div>
+            <div id = "EH"> Ericka Hernandez </div> 
+            <div id = "CTH"> Cole Thomas </div> 
+            <div id = "DY"> Devin Young </div> 
+            <div id = "RR"> Relisha Rudd </div>
+          </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
